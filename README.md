@@ -1,2 +1,4 @@
-# Sum-of-numbers
-This program created the sum of first n numbers entered by user.
+n = int(input())
+n2 = int(input())
+ans = n+n2
+print(ans)
